@@ -26,7 +26,7 @@ Terraforming special projects cost more the more they are repeated, seed vegetat
 
 **Better forestation plants and seed vegetation mission**
 
-Forestation plants can contribute 40% to vegetation overall (i.e. they ignore the contribution seed vegetation has made). Seed vegetation missions cause local vegetation blooms (they’re small but noticeable after you’ve done enough missions). When your rocket returns from a seed vegetation mission, a new one spawns if none are currently available (so you can always have at least 1 rocket continuously doing seed vegetation missions)
+Forestation plants can contribute 40% to vegetation overall (i.e. they ignore the contribution seed vegetation has made) and can get the amplify upgrade. Seed vegetation missions cause local vegetation blooms (they’re small but noticeable after you’ve done enough missions). When your rocket returns from a seed vegetation mission, a new one spawns if none are currently available (so you can always have at least 1 rocket continuously doing seed vegetation missions)
 
 **Disasters impact terraforming**
 
